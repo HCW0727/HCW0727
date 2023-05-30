@@ -10,6 +10,7 @@ I'm currently Interested in...
 ### 📫 Contacts & Portfolio:
 - [![GMail Badge](https://img.shields.io/badge/-chaewon.huh.36@gmail.com-EA4335?style=flat-square&logo=GMail&logoColor=white&link=mailto:chaewon.huh.36@gmail.com)](mailto:chaewon.huh.36@gmail.com)
 <a href="http://blog.naver.com/huhchaewon" target="_blank"><img src="https://img.shields.io/badge/Blog-00C244?style=flat-square&logo=naver&logoColor=white"/></a>
-<a href="http://rocketpunch.com/@chaewonhuh36" target="_blank"><img src="https://img.shields.io/badge/Rocketpunch-512DA8?style=flat-square&logo=rocketpunch&logoColor=white"/></a>
+<a href="http://rocketpunch.com/@chaewonhuh36" target="_blank"><img src="https://img.shields.io/badge/Rocketpunch-5360F6?style=flat-square&logo=rocketpunch&logoColor=white"/></a>
+
 - <a href="http://chaewonhuh.me" target="_blank"><img src="https://img.shields.io/badge/Notion-512DA8?style=flat-square&logo=Notion&logoColor=white"/></a>
 
