@@ -1,11 +1,11 @@
 # <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px height=30px> HELLO!
 
-My name is Chaewon Huh, student programmer in South Korea
+My name is Chaewon Huh, 20 years old AI Engineer
 
 I'm currently Interested in...
 
-- Autonomous Driving
-- Vision Reconstruction
+- Block Coding for AI.
+- How to effectively utilize LLMs?
 
 ### 📫 Contacts & Portfolio:
 - [![GMail Badge](https://img.shields.io/badge/-chaewon.huh.36@gmail.com-EA4335?style=flat-square&logo=GMail&logoColor=white&link=mailto:chaewon.huh.36@gmail.com)](mailto:chaewon.huh.36@gmail.com)
