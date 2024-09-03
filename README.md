@@ -1,16 +1,17 @@
 # <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px height=30px> HELLO!
 
-My name is Chaewon Huh, 20 years old AI Engineer
+My name is Chaewon Huh, 20 years old AI Engineer at Dalpha AI.
+I studied for one semester at POSTECH(Pohang University of Science and Technology) before taking a leave of absence to move to work as an AI Engineer.
+I’m eager to connect with smart, young, and passionate individuals to make a significant impact on the world.
+
 
 I'm currently Interested in...
+- Block Coding for AI Education.
+- Ways to effectively utilize LLMs.
 
-- Block Coding for AI.
-- How to effectively utilize LLMs?
+More Informations about me...
+- http://chaewonhuh.me
 
-### 📫 Contacts & Portfolio:
-- [![GMail Badge](https://img.shields.io/badge/-chaewon.huh.36@gmail.com-EA4335?style=flat-square&logo=GMail&logoColor=white&link=mailto:chaewon.huh.36@gmail.com)](mailto:chaewon.huh.36@gmail.com)
-<a href="http://blog.naver.com/huhchaewon" target="_blank"><img src="https://img.shields.io/badge/Blog-00C244?style=flat-square&logo=naver&logoColor=white"/></a>
-
-- <a href="http://chaewonhuh.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-512DA8?style=flat-square&logo=Notion&logoColor=white"/></a>
-
-
+Contact me in any channels!
+- cw.huh@postech.ac.kr
+- https://www.linkedin.com/in/cwhuh/
