@@ -8,6 +8,28 @@ I’m eager to connect with smart, young, and passionate individuals to make a s
 I'm currently interested in...  
 - Effective utilization of AI
 
+---
+
+## Education
+- POSTECH | Mar. 2024 - | B.S. in Interdisciplinary Studies (Expected Major: Computer Science)
+
+---
+
+## Experience
+- Dalpha AI | Jul. 2024 - | AI Engineer
+
+---
+
+## Awards
+**- 24' Postech Presidential Fellowship for Special Talent (1 in 362)**  
+**- 23' International Science and Engineer Fair Finalist & Grand Awards 4th Place in Embedded Systems**  
+- 22' International Science and Engineer Fair Finalist  
+- 22' Korea Code Fair 1st Place  
+- 22' Talent Award of Korea  
+- 21' Korea Code Fair 2nd Place  
+
+---
+
 More information about me...  
 - http://chaewonhuh.me
 
