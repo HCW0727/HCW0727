@@ -7,18 +7,15 @@ I’m eager to connect with smart, young, and passionate individuals to make a s
 
 I'm currently interested in...  
 - Effective utilization of AI
-
----
+  
 
 ## Education
 - POSTECH | Mar. 2024 - | B.S. in Interdisciplinary Studies (Expected Major: Computer Science)
 
----
 
 ## Experience
 - Dalpha AI | Jul. 2024 - | AI Engineer
 
----
 
 ## Awards
 **- 24' Postech Presidential Fellowship for Special Talent (1 in 362)**  
