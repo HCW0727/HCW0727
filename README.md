@@ -6,8 +6,7 @@ I studied for one semester at POSTECH before taking a leave of absence to work a
 I’m eager to connect with smart, young, and passionate individuals to make a significant impact on the world.
 
 I'm currently interested in...  
-- Block Coding for AI Education.  
-- Effective utilization of LLMs.
+- Effective utilization of AI
 
 More information about me...  
 - http://chaewonhuh.me
